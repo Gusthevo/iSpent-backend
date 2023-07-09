@@ -1,0 +1,12 @@
+# Folders
+node_modules
+
+# .env files
+.prd.env
+# config Bd
+.dev.env
+# docker-compose
+docker-compose.yml
+
+# Readme Alex
+readmeAlex.md
